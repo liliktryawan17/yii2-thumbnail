@@ -1,21 +1,21 @@
-// {
-//     "name": "liliktryawan/liliktriyawan",
-//     "description": "Widget Thumbnail Bootstrap for Yii Framework 2 ",
-//     "type": "yii2-extension",
-//     "keywords": ["yii2","extension","thumbnail","bootstrap"],
-//     "license": "MIT",
-//     "authors": [
-//         {
-//             "name": "Lilik Triyawan",
-//             "email": "liliktriyawan@gmail.com"
-//         }
-//     ],
-//     "require": {
-//         "yiisoft/yii2": "~2.0.0"
-//     },
-//     "autoload": {
-//         "psr-4": {
-//             "liliktriyawan\\bs\\": ""
-//         }
-//     }
-// }
+{
+     "name": "liliktryawan/liliktriyawan",
+     "description": "Widget Thumbnail Bootstrap for Yii Framework 2 ",
+     "type": "yii2-extension",
+     "keywords": ["yii2","extension","thumbnail","bootstrap"],
+     "license": "MIT",
+     "authors": [
+         {
+             "name": "Lilik Triyawan",
+             "email": "liliktriyawan@gmail.com"
+         }
+     ],
+     "require": {
+         "yiisoft/yii2": "~2.0.0"
+     },
+     "autoload": {
+         "psr-4": {
+             "liliktriyawan\\bs\\": ""
+         }
+     }
+ }
